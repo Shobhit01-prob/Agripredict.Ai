@@ -1,0 +1,30 @@
+{
+  "model_name": "LightGBM AgroRegressor",
+  "model_version": "v1.4.2-faostat",
+  "training_date": "2026-10-25",
+  "total_training_samples": 20412,
+  "total_test_samples": 5103,
+  "categorical_features": [
+    "crop",
+    "region",
+    "season"
+  ],
+  "numerical_features": [
+    "area_harvested",
+    "rainfall_mm",
+    "temperature_c",
+    "humidity_pct",
+    "soil_ph",
+    "nitrogen",
+    "phosphorus",
+    "potassium",
+    "irrigation_fraction",
+    "fertilizer_rate_kg_ha"
+  ],
+  "target": "yield_t_ha",
+  "metrics": {
+    "mae": 2.68,
+    "rmse": 4.608,
+    "r2": 0.666
+  }
+}

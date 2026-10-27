@@ -1,0 +1,93 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --color-sage: #87A96B;
+  --color-sage-50: #F4F7F1;
+  --color-sage-100: #E5EDE0;
+  --color-sage-200: #CCDDC3;
+  --color-sage-500: #87A96B;
+  --color-sage-600: #719356;
+  --color-sage-700: #577342;
+  
+  --color-walnut: #5A3E2B;
+  --color-walnut-light: #77553E;
+  --color-walnut-dark: #2E1F16;
+  --color-walnut-900: #21160F;
+
+  --color-amber-glow: #D5851F;
+  --color-amber-hover: #BD7417;
+  --color-amber-light: #F7E7D0;
+
+  --color-cream: #F6F1E7;
+  --color-cream-surface: #EDE7DC;
+  --color-warm-white: #FFFDF8;
+
+  --font-heading: 'Fraunces', Georgia, serif;
+  --font-sans: 'Figtree', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+
+  --radius-card: 20px;
+  --radius-card-sm: 16px;
+  --radius-card-lg: 24px;
+}
+
+:root {
+  --bg-primary: #F6F1E7;
+  --bg-surface: #FFFDF8;
+  --bg-surface-elevated: #FFFFFF;
+  --text-main: #5A3E2B;
+  --text-muted: #6B5E52;
+  --text-light: #8C7B6E;
+  --border-subtle: #E8DFD0;
+  --border-strong: #D6C7B2;
+  --primary-accent: #87A96B;
+  --cta-accent: #D5851F;
+}
+
+.dark {
+  --bg-primary: #2E1F16;
+  --bg-surface: #38281D;
+  --bg-surface-elevated: #443225;
+  --text-main: #F6F1E7;
+  --text-muted: #D1C4B5;
+  --text-light: #A89887;
+  --border-subtle: #4D392C;
+  --border-strong: #61493A;
+  --primary-accent: #87A96B;
+  --cta-accent: #D5851F;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-sans);
+  background-color: var(--bg-primary);
+  color: var(--text-main);
+  transition: background-color 0.25s ease, color 0.25s ease;
+}
+
+h1, h2, h3, .font-heading {
+  font-family: var(--font-heading);
+}
+
+/* Custom soft scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(90, 62, 43, 0.2);
+  border-radius: 9999px;
+}
+.dark ::-webkit-scrollbar-thumb {
+  background: rgba(246, 241, 231, 0.2);
+}
+
+/* Focus ring accessibility */
+*:focus-visible {
+  outline: 2px solid #87A96B;
+  outline-offset: 2px;
+}

@@ -1,0 +1,152 @@
+{
+  "Barley::Americas": {
+    "mean": 2.61,
+    "median": 2.86,
+    "std": 1.03
+  },
+  "Barley::Asia": {
+    "mean": 2.27,
+    "median": 2.38,
+    "std": 1.1
+  },
+  "Barley::Europe": {
+    "mean": 3.98,
+    "median": 3.62,
+    "std": 1.64
+  },
+  "Barley::Global Other": {
+    "mean": 2.79,
+    "median": 2.34,
+    "std": 1.79
+  },
+  "Maize (corn)::Americas": {
+    "mean": 5.17,
+    "median": 4.28,
+    "std": 2.85
+  },
+  "Maize (corn)::Asia": {
+    "mean": 4.13,
+    "median": 4.32,
+    "std": 1.76
+  },
+  "Maize (corn)::Europe": {
+    "mean": 6.9,
+    "median": 7.21,
+    "std": 2.75
+  },
+  "Maize (corn)::Global Other": {
+    "mean": 3.48,
+    "median": 2.22,
+    "std": 2.99
+  },
+  "Potatoes::Americas": {
+    "mean": 22.91,
+    "median": 23.78,
+    "std": 13.63
+  },
+  "Potatoes::Asia": {
+    "mean": 18.36,
+    "median": 16.99,
+    "std": 5.84
+  },
+  "Potatoes::Europe": {
+    "mean": 26.4,
+    "median": 25.08,
+    "std": 11.56
+  },
+  "Potatoes::Global Other": {
+    "mean": 17.88,
+    "median": 15.99,
+    "std": 9.73
+  },
+  "Rice (paddy)::Americas": {
+    "mean": 5.01,
+    "median": 4.98,
+    "std": 1.91
+  },
+  "Rice (paddy)::Asia": {
+    "mean": 4.83,
+    "median": 4.98,
+    "std": 1.53
+  },
+  "Rice (paddy)::Europe": {
+    "mean": 5.24,
+    "median": 5.42,
+    "std": 1.47
+  },
+  "Rice (paddy)::Global Other": {
+    "mean": 3.36,
+    "median": 3.02,
+    "std": 1.97
+  },
+  "Soybeans::Americas": {
+    "mean": 2.42,
+    "median": 2.5,
+    "std": 0.55
+  },
+  "Soybeans::Asia": {
+    "mean": 1.47,
+    "median": 1.51,
+    "std": 0.38
+  },
+  "Soybeans::Europe": {
+    "mean": 2.19,
+    "median": 2.19,
+    "std": 0.83
+  },
+  "Soybeans::Global Other": {
+    "mean": 1.55,
+    "median": 1.44,
+    "std": 0.76
+  },
+  "Wheat::Americas": {
+    "mean": 2.63,
+    "median": 2.5,
+    "std": 1.19
+  },
+  "Wheat::Asia": {
+    "mean": 3.08,
+    "median": 3.09,
+    "std": 1.33
+  },
+  "Wheat::Europe": {
+    "mean": 4.6,
+    "median": 3.84,
+    "std": 2.11
+  },
+  "Wheat::Global Other": {
+    "mean": 2.92,
+    "median": 2.34,
+    "std": 1.95
+  },
+  "Barley": {
+    "mean": 2.85,
+    "median": 2.5,
+    "std": 0.5
+  },
+  "Maize (corn)": {
+    "mean": 3.77,
+    "median": 2.61,
+    "std": 0.5
+  },
+  "Potatoes": {
+    "mean": 18.65,
+    "median": 16.5,
+    "std": 0.5
+  },
+  "Rice (paddy)": {
+    "mean": 3.67,
+    "median": 3.33,
+    "std": 0.5
+  },
+  "Soybeans": {
+    "mean": 1.66,
+    "median": 1.59,
+    "std": 0.5
+  },
+  "Wheat": {
+    "mean": 3.04,
+    "median": 2.5,
+    "std": 0.5
+  }
+}

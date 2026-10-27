@@ -1,0 +1,30 @@
+[
+  {
+    "model_name": "LightGBM Regressor (Active)",
+    "rmse": 4.608,
+    "mae": 2.68,
+    "r2": 0.666,
+    "is_active": true
+  },
+  {
+    "model_name": "Random Forest (150 trees)",
+    "rmse": 4.551,
+    "mae": 2.593,
+    "r2": 0.675,
+    "is_active": false
+  },
+  {
+    "model_name": "Gradient Boosting (Scikit)",
+    "rmse": 4.576,
+    "mae": 2.689,
+    "r2": 0.671,
+    "is_active": false
+  },
+  {
+    "model_name": "Ridge Regression (L2)",
+    "rmse": 4.888,
+    "mae": 2.919,
+    "r2": 0.625,
+    "is_active": false
+  }
+]

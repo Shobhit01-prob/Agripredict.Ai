@@ -1,0 +1,67 @@
+[
+  {
+    "feature": "Cultivated Area Scale",
+    "importance": 0.16,
+    "description": "Model weight in yield decision trees (16.0%)"
+  },
+  {
+    "feature": "Total Fertilizer Rate",
+    "importance": 0.102,
+    "description": "Model weight in yield decision trees (10.2%)"
+  },
+  {
+    "feature": "Potassium Rate (kg/ha)",
+    "importance": 0.096,
+    "description": "Model weight in yield decision trees (9.6%)"
+  },
+  {
+    "feature": "Phosphorus Rate (kg/ha)",
+    "importance": 0.09,
+    "description": "Model weight in yield decision trees (9.0%)"
+  },
+  {
+    "feature": "Soil pH Level",
+    "importance": 0.088,
+    "description": "Model weight in yield decision trees (8.8%)"
+  },
+  {
+    "feature": "Nitrogen Application (kg/ha)",
+    "importance": 0.087,
+    "description": "Model weight in yield decision trees (8.7%)"
+  },
+  {
+    "feature": "Annual Rainfall (mm)",
+    "importance": 0.082,
+    "description": "Model weight in yield decision trees (8.2%)"
+  },
+  {
+    "feature": "Mean Temperature (\u00b0C)",
+    "importance": 0.082,
+    "description": "Model weight in yield decision trees (8.2%)"
+  },
+  {
+    "feature": "Relative Humidity (%)",
+    "importance": 0.079,
+    "description": "Model weight in yield decision trees (7.9%)"
+  },
+  {
+    "feature": "Irrigation Management",
+    "importance": 0.063,
+    "description": "Model weight in yield decision trees (6.3%)"
+  },
+  {
+    "feature": "Crop Species",
+    "importance": 0.035,
+    "description": "Model weight in yield decision trees (3.5%)"
+  },
+  {
+    "feature": "Macro Region",
+    "importance": 0.029,
+    "description": "Model weight in yield decision trees (2.9%)"
+  },
+  {
+    "feature": "Seasonality",
+    "importance": 0.007,
+    "description": "Model weight in yield decision trees (0.7%)"
+  }
+]

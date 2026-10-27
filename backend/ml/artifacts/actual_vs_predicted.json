@@ -1,0 +1,412 @@
+{
+  "items": [
+    {
+      "sample_id": 1,
+      "crop": "Maize (corn)",
+      "country": "Angola",
+      "year": 2020,
+      "actual_yield_t_ha": 1.1,
+      "predicted_yield_t_ha": 2.45,
+      "residual": -1.35
+    },
+    {
+      "sample_id": 2,
+      "crop": "Maize (corn)",
+      "country": "Fiji",
+      "year": 1990,
+      "actual_yield_t_ha": 2.11,
+      "predicted_yield_t_ha": 3.53,
+      "residual": -1.42
+    },
+    {
+      "sample_id": 3,
+      "crop": "Maize (corn)",
+      "country": "Armenia",
+      "year": 1996,
+      "actual_yield_t_ha": 2.22,
+      "predicted_yield_t_ha": 3.3,
+      "residual": -1.08
+    },
+    {
+      "sample_id": 4,
+      "crop": "Rice (paddy)",
+      "country": "Thailand",
+      "year": 2016,
+      "actual_yield_t_ha": 2.87,
+      "predicted_yield_t_ha": 3.84,
+      "residual": -0.97
+    },
+    {
+      "sample_id": 5,
+      "crop": "Wheat",
+      "country": "Mali",
+      "year": 2010,
+      "actual_yield_t_ha": 2.55,
+      "predicted_yield_t_ha": 2.4,
+      "residual": 0.15
+    },
+    {
+      "sample_id": 6,
+      "crop": "Potatoes",
+      "country": "Germany",
+      "year": 1991,
+      "actual_yield_t_ha": 29.85,
+      "predicted_yield_t_ha": 25.65,
+      "residual": 4.2
+    },
+    {
+      "sample_id": 7,
+      "crop": "Barley",
+      "country": "T\u00c3\u00bcrkiye",
+      "year": 2005,
+      "actual_yield_t_ha": 2.62,
+      "predicted_yield_t_ha": 2.11,
+      "residual": 0.51
+    },
+    {
+      "sample_id": 8,
+      "crop": "Barley",
+      "country": "Jordan",
+      "year": 2014,
+      "actual_yield_t_ha": 1.02,
+      "predicted_yield_t_ha": 2.91,
+      "residual": -1.89
+    },
+    {
+      "sample_id": 9,
+      "crop": "Soybeans",
+      "country": "Ethiopia",
+      "year": 2002,
+      "actual_yield_t_ha": 0.96,
+      "predicted_yield_t_ha": 1.45,
+      "residual": -0.49
+    },
+    {
+      "sample_id": 10,
+      "crop": "Rice (paddy)",
+      "country": "Peru",
+      "year": 2011,
+      "actual_yield_t_ha": 7.3,
+      "predicted_yield_t_ha": 3.25,
+      "residual": 4.05
+    },
+    {
+      "sample_id": 11,
+      "crop": "Barley",
+      "country": "Bulgaria",
+      "year": 1994,
+      "actual_yield_t_ha": 2.93,
+      "predicted_yield_t_ha": 2.93,
+      "residual": 0.0
+    },
+    {
+      "sample_id": 12,
+      "crop": "Potatoes",
+      "country": "Sudan (former)",
+      "year": 1991,
+      "actual_yield_t_ha": 17.81,
+      "predicted_yield_t_ha": 18.99,
+      "residual": -1.18
+    },
+    {
+      "sample_id": 13,
+      "crop": "Maize (corn)",
+      "country": "Switzerland",
+      "year": 1995,
+      "actual_yield_t_ha": 8.36,
+      "predicted_yield_t_ha": 3.62,
+      "residual": 4.74
+    },
+    {
+      "sample_id": 14,
+      "crop": "Wheat",
+      "country": "Austria",
+      "year": 2009,
+      "actual_yield_t_ha": 4.93,
+      "predicted_yield_t_ha": 3.24,
+      "residual": 1.69
+    },
+    {
+      "sample_id": 15,
+      "crop": "Barley",
+      "country": "Colombia",
+      "year": 2015,
+      "actual_yield_t_ha": 2.0,
+      "predicted_yield_t_ha": 2.56,
+      "residual": -0.56
+    },
+    {
+      "sample_id": 16,
+      "crop": "Barley",
+      "country": "Tajikistan",
+      "year": 2024,
+      "actual_yield_t_ha": 2.36,
+      "predicted_yield_t_ha": 3.01,
+      "residual": -0.65
+    },
+    {
+      "sample_id": 17,
+      "crop": "Soybeans",
+      "country": "United Republic of Tanzania",
+      "year": 2002,
+      "actual_yield_t_ha": 1.3,
+      "predicted_yield_t_ha": 0.91,
+      "residual": 0.39
+    },
+    {
+      "sample_id": 18,
+      "crop": "Soybeans",
+      "country": "Mexico",
+      "year": 1992,
+      "actual_yield_t_ha": 1.84,
+      "predicted_yield_t_ha": 1.66,
+      "residual": 0.18
+    },
+    {
+      "sample_id": 19,
+      "crop": "Potatoes",
+      "country": "Norway",
+      "year": 2001,
+      "actual_yield_t_ha": 26.29,
+      "predicted_yield_t_ha": 19.87,
+      "residual": 6.42
+    },
+    {
+      "sample_id": 20,
+      "crop": "Potatoes",
+      "country": "Belgium",
+      "year": 2023,
+      "actual_yield_t_ha": 42.03,
+      "predicted_yield_t_ha": 21.43,
+      "residual": 20.6
+    },
+    {
+      "sample_id": 21,
+      "crop": "Soybeans",
+      "country": "Bhutan",
+      "year": 2008,
+      "actual_yield_t_ha": 0.68,
+      "predicted_yield_t_ha": 1.79,
+      "residual": -1.11
+    },
+    {
+      "sample_id": 22,
+      "crop": "Soybeans",
+      "country": "Burkina Faso",
+      "year": 1991,
+      "actual_yield_t_ha": 0.5,
+      "predicted_yield_t_ha": 1.87,
+      "residual": -1.37
+    },
+    {
+      "sample_id": 23,
+      "crop": "Maize (corn)",
+      "country": "Yemen",
+      "year": 1990,
+      "actual_yield_t_ha": 1.27,
+      "predicted_yield_t_ha": 3.59,
+      "residual": -2.32
+    },
+    {
+      "sample_id": 24,
+      "crop": "Wheat",
+      "country": "Greece",
+      "year": 2002,
+      "actual_yield_t_ha": 2.34,
+      "predicted_yield_t_ha": 3.58,
+      "residual": -1.24
+    },
+    {
+      "sample_id": 25,
+      "crop": "Wheat",
+      "country": "Mauritania",
+      "year": 2005,
+      "actual_yield_t_ha": 2.0,
+      "predicted_yield_t_ha": 2.35,
+      "residual": -0.35
+    },
+    {
+      "sample_id": 26,
+      "crop": "Soybeans",
+      "country": "Pakistan",
+      "year": 2016,
+      "actual_yield_t_ha": 0.85,
+      "predicted_yield_t_ha": 1.3,
+      "residual": -0.45
+    },
+    {
+      "sample_id": 27,
+      "crop": "Wheat",
+      "country": "Honduras",
+      "year": 1992,
+      "actual_yield_t_ha": 0.59,
+      "predicted_yield_t_ha": 2.43,
+      "residual": -1.84
+    },
+    {
+      "sample_id": 28,
+      "crop": "Potatoes",
+      "country": "Malta",
+      "year": 2013,
+      "actual_yield_t_ha": 18.06,
+      "predicted_yield_t_ha": 18.11,
+      "residual": -0.05
+    },
+    {
+      "sample_id": 29,
+      "crop": "Wheat",
+      "country": "Thailand",
+      "year": 2013,
+      "actual_yield_t_ha": 1.25,
+      "predicted_yield_t_ha": 2.05,
+      "residual": -0.8
+    },
+    {
+      "sample_id": 30,
+      "crop": "Maize (corn)",
+      "country": "Libya",
+      "year": 1993,
+      "actual_yield_t_ha": 1.32,
+      "predicted_yield_t_ha": 3.42,
+      "residual": -2.1
+    },
+    {
+      "sample_id": 31,
+      "crop": "Potatoes",
+      "country": "Faroe Islands",
+      "year": 2006,
+      "actual_yield_t_ha": 14.02,
+      "predicted_yield_t_ha": 12.74,
+      "residual": 1.28
+    },
+    {
+      "sample_id": 32,
+      "crop": "Potatoes",
+      "country": "Senegal",
+      "year": 2000,
+      "actual_yield_t_ha": 11.16,
+      "predicted_yield_t_ha": 23.12,
+      "residual": -11.96
+    },
+    {
+      "sample_id": 33,
+      "crop": "Rice (paddy)",
+      "country": "Romania",
+      "year": 1991,
+      "actual_yield_t_ha": 1.46,
+      "predicted_yield_t_ha": 5.02,
+      "residual": -3.56
+    },
+    {
+      "sample_id": 34,
+      "crop": "Potatoes",
+      "country": "China, mainland",
+      "year": 2010,
+      "actual_yield_t_ha": 15.66,
+      "predicted_yield_t_ha": 14.06,
+      "residual": 1.6
+    },
+    {
+      "sample_id": 35,
+      "crop": "Wheat",
+      "country": "Mongolia",
+      "year": 2006,
+      "actual_yield_t_ha": 1.08,
+      "predicted_yield_t_ha": 3.32,
+      "residual": -2.24
+    },
+    {
+      "sample_id": 36,
+      "crop": "Potatoes",
+      "country": "Faroe Islands",
+      "year": 2007,
+      "actual_yield_t_ha": 14.0,
+      "predicted_yield_t_ha": 10.5,
+      "residual": 3.5
+    },
+    {
+      "sample_id": 37,
+      "crop": "Wheat",
+      "country": "Kazakhstan",
+      "year": 2008,
+      "actual_yield_t_ha": 0.97,
+      "predicted_yield_t_ha": 2.14,
+      "residual": -1.17
+    },
+    {
+      "sample_id": 38,
+      "crop": "Soybeans",
+      "country": "Ethiopia",
+      "year": 2009,
+      "actual_yield_t_ha": 1.39,
+      "predicted_yield_t_ha": 1.48,
+      "residual": -0.09
+    },
+    {
+      "sample_id": 39,
+      "crop": "Rice (paddy)",
+      "country": "Burkina Faso",
+      "year": 2017,
+      "actual_yield_t_ha": 1.97,
+      "predicted_yield_t_ha": 3.75,
+      "residual": -1.78
+    },
+    {
+      "sample_id": 40,
+      "crop": "Soybeans",
+      "country": "Kazakhstan",
+      "year": 1999,
+      "actual_yield_t_ha": 1.3,
+      "predicted_yield_t_ha": 1.54,
+      "residual": -0.24
+    },
+    {
+      "sample_id": 41,
+      "crop": "Wheat",
+      "country": "Slovakia",
+      "year": 1996,
+      "actual_yield_t_ha": 4.13,
+      "predicted_yield_t_ha": 3.05,
+      "residual": 1.08
+    },
+    {
+      "sample_id": 42,
+      "crop": "Maize (corn)",
+      "country": "Burundi",
+      "year": 2020,
+      "actual_yield_t_ha": 1.17,
+      "predicted_yield_t_ha": 3.25,
+      "residual": -2.08
+    },
+    {
+      "sample_id": 43,
+      "crop": "Potatoes",
+      "country": "Viet Nam",
+      "year": 1994,
+      "actual_yield_t_ha": 9.5,
+      "predicted_yield_t_ha": 14.47,
+      "residual": -4.97
+    },
+    {
+      "sample_id": 44,
+      "crop": "Maize (corn)",
+      "country": "Nigeria",
+      "year": 2023,
+      "actual_yield_t_ha": 1.94,
+      "predicted_yield_t_ha": 2.11,
+      "residual": -0.17
+    },
+    {
+      "sample_id": 45,
+      "crop": "Barley",
+      "country": "India",
+      "year": 2005,
+      "actual_yield_t_ha": 1.96,
+      "predicted_yield_t_ha": 2.84,
+      "residual": -0.88
+    }
+  ],
+  "mae": 2.68,
+  "rmse": 4.608,
+  "r_squared": 0.666
+}

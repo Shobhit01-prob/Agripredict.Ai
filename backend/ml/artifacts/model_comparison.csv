@@ -1,0 +1,5 @@
+model_name,rmse,mae,r2,is_active
+LightGBM Regressor (Active),4.608,2.68,0.666,True
+Random Forest (150 trees),4.551,2.593,0.675,False
+Gradient Boosting (Scikit),4.576,2.689,0.671,False
+Ridge Regression (L2),4.888,2.919,0.625,False
